@@ -2,7 +2,7 @@ package methods;
 
 import java.util.Scanner;
 
-public class match1_reverse_a_number_using_method {
+public class march1_reverse_a_number_using_method {
 	
 	static int reverse_num(int num)
 	{
